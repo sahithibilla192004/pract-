@@ -1,1 +1,1 @@
-print("this is branc A")
+print("this is resolved version")
